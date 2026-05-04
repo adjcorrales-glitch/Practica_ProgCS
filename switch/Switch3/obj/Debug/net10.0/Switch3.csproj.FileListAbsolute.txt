@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\introprog\switch\Switch3\bin\Debug\net10.0\Switch3.exe
+C:\Users\HP\OneDrive\Desktop\introprog\switch\Switch3\bin\Debug\net10.0\Switch3.deps.json
+C:\Users\HP\OneDrive\Desktop\introprog\switch\Switch3\bin\Debug\net10.0\Switch3.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\introprog\switch\Switch3\bin\Debug\net10.0\Switch3.dll
+C:\Users\HP\OneDrive\Desktop\introprog\switch\Switch3\bin\Debug\net10.0\Switch3.pdb
+C:\Users\HP\OneDrive\Desktop\introprog\switch\Switch3\obj\Debug\net10.0\Switch3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\introprog\switch\Switch3\obj\Debug\net10.0\Switch3.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\introprog\switch\Switch3\obj\Debug\net10.0\Switch3.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\introprog\switch\Switch3\obj\Debug\net10.0\Switch3.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\introprog\switch\Switch3\obj\Debug\net10.0\Switch3.dll
+C:\Users\HP\OneDrive\Desktop\introprog\switch\Switch3\obj\Debug\net10.0\refint\Switch3.dll
+C:\Users\HP\OneDrive\Desktop\introprog\switch\Switch3\obj\Debug\net10.0\Switch3.pdb
+C:\Users\HP\OneDrive\Desktop\introprog\switch\Switch3\obj\Debug\net10.0\Switch3.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\introprog\switch\Switch3\obj\Debug\net10.0\ref\Switch3.dll
